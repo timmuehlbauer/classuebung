@@ -51,6 +51,7 @@ class Buch {
         }
 
     }
+    
     verkauft(){
         this.vorhanden = 69-1
     }
@@ -62,7 +63,7 @@ function harrypotter() {
 }
 lager = ["Titel", "Verlag", "Seitenzahl", "Autor", ]
 function init(){
-    
+
     lager[0]
     lager[1]
     lager[2]
