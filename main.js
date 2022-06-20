@@ -56,12 +56,15 @@ class Buch {
     }
 
 }
-function harrypotter(){
-    buch1 = new Buch(
-    )
+function harrypotter() {
+    buch1 = new Buch()
     this.vorhanden = 20
 }
-
-harrypotter.verkauft()
-buch = new Buch("5", 5, 5, 5, 5, 5)
-buch.verfuegbar()
+lager = ["Titel", "Verlag", "Seitenzahl", "Autor", ]
+function init(){
+    
+    lager[0]
+    lager[1]
+    lager[2]
+    lager[3]
+}
