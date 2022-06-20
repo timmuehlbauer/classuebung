@@ -61,6 +61,7 @@ function harrypotter(){
     )
     this.vorhanden = 20
 }
+
 harrypotter.verkauft()
 buch = new Buch("5", 5, 5, 5, 5, 5)
 buch.verfuegbar()
