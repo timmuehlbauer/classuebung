@@ -51,7 +51,7 @@ class Buch {
         }
 
     }
-    
+
     verkauft(){
         this.vorhanden = 69-1
     }
